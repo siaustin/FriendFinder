@@ -8,6 +8,7 @@ The Friend Finder application is meant to be similar to a simple dating app. The
 
 # Demo
 Friend Finder is deployed to Heroku. Please check it out here.
+  * https://dashboard.heroku.com/apps/friend-finder-homework-by-sara
 
 # Installation
 
